@@ -11,7 +11,7 @@ Proyecto elaborado con HTML y CSS utilizando media Queries y estilos personaliza
 
 ## Demo
 
-[https://valadxz.github.io/JuegoSecreto/](https://portafolio-beta-liart.vercel.app)
+[https://portafolio-beta-liart.vercel.app(https://portafolio-beta-liart.vercel.app)
 
 
 ## 🔗 Links
